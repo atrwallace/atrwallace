@@ -12,9 +12,9 @@
 
 
 - 🔭 I’m currently working on Mobile Development
-- 🌱 I’m currently learning Dependency Injection with Koin, to use in my viewmodel projects
+- 🌱 I’m currently learning Tests
 - 👯 I’m looking to collaborate and learn on Mobile projects for Android Native
-- 🤔 I’m looking for help with Koin and Scoping =D
+- 🤔 I’m looking for help with Tests
 - 💬 Ask me about Android Development
 - 📫 How to reach me: actually through my instagram account. I'll see the filtered messages and answer as fast as I can.
 
