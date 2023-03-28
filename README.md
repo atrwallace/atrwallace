@@ -11,12 +11,12 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/tayrk/)
 
 
-- 🔭 I’m currently working on Mobile Development
-- 🌱 I’m currently learning Tests
-- 👯 I’m looking to collaborate and learn on Mobile projects for Android Native
-- 🤔 I’m looking for help with Tests
+- 🔭 I’m currently working on Android Development
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate and learn on Mobile projects for Android Native and Flutter
+- 🤔 I’m looking for help with Jetpack Compose
 - 💬 Ask me about Android Development
-- 📫 How to reach me: actually through my instagram account. I'll see the filtered messages and answer as fast as I can.
+- 📫 How to reach me: here or LinkedIn.
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=atrwallace&count_private=true&show_icons&include_all_commits&langs_count"/>
 
